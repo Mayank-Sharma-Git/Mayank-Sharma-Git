@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,100:0284c7&height=180&section=header&text=Mayank%20Sharma&fontSize=52&fontColor=e0e7ff&fontAlignY=40&desc=Data%20Analyst%20→%20Machine%20Learning&descAlignY=62&descSize=16&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=180&section=header&text=Mayank%20Sharma&fontSize=52&fontColor=e0e7ff&fontAlignY=40&desc=Data%20Analyst%20→%20Machine%20Learning&descAlignY=62&descSize=16&descColor=a5b4fc" width="100%"/>
 
 <br/>
 
@@ -81,7 +81,7 @@ Actively looking for roles where data actually drives decisions.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f0f1a&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=90&section=footer" width="100%"/>
 
 **Open to Data Analyst, Business Analyst & Junior ML roles**
 `MayankSharma.work@proton.me`
