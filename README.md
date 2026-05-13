@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0d9488,100:059669&height=180&section=header&text=Mayank%20Sharma&fontSize=52&fontColor=e0e7ff&fontAlignY=40&desc=Data%20Analyst%20→%20Machine%20Learning&descAlignY=62&descSize=16&descColor=a5b4fc" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d9488,100:059669&height=180&section=header&text=Mayank%20Sharma&fontSize=52&fontColor=e0e7ff&fontAlignY=40&desc=Data%20Analyst%20→%20Machine%20Learning&descAlignY=62&descSize=16&descColor=a5b4fc" width="100%"/>
 
 <br/>
 
