@@ -1,83 +1,95 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f1a,50:1e1b4b,100:312e81&height=180&section=header&text=Mayank%20Sharma&fontSize=52&fontColor=e0e7ff&fontAlignY=40&desc=Data%20Analyst%20→%20Machine%20Learning&descAlignY=62&descSize=16&descColor=a5b4fc" width="100%"/>
+
+<br/>
+
 <div align="center">
 
-# Mayank Sharma
-### Data Analyst · Turning Raw Data into Real Decisions
+[![Email](https://img.shields.io/badge/ProtonMail-MayankSharma.work-6366f1?style=flat-square&logo=protonmail&logoColor=white)](mailto:MayankSharma.work@proton.me)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-Mayank--Sharma--Git-0f172a?style=flat-square&logo=github&logoColor=white)](https://github.com/Mayank-Sharma-Git)&nbsp;
+![Open to Work](https://img.shields.io/badge/Status-Open%20to%20Work-22c55e?style=flat-square)
 
-[![Email](https://img.shields.io/badge/Email-MayankSharma.work%40proton.me-6d4aff?style=flat-square&logo=protonmail&logoColor=white)](mailto:MayankSharma.work@proton.me)
-[![GitHub](https://img.shields.io/badge/GitHub-Mayank--Sharma--Git-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mayank-Sharma-Git)
+</div>
+
+<br/>
+
+---
+
+### `$ whoami`
+
+```python
+{
+  "role"         : "Data Analyst",
+  "core_stack"   : ["Python", "SQL", "Power BI", "Advanced Excel"],
+  "libraries"    : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Streamlit"],
+  "currently"    : "Studying Mathematics for Machine Learning",
+  "next_goal"    : "ML Engineering — Scikit-learn, Stats, Model Building",
+  "available_for": "Data Analyst · Business Analyst · Junior ML roles"
+}
+```
+
+---
+
+### Stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3b82f6)
+![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=3b82f6)
+![Power BI](https://img.shields.io/badge/Power%20BI-0f172a?style=for-the-badge&logo=powerbi&logoColor=f59e0b)
+![Excel](https://img.shields.io/badge/Excel-0f172a?style=for-the-badge&logo=microsoftexcel&logoColor=22c55e)
+
+![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=6366f1)
+![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=6366f1)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0f172a?style=for-the-badge&logo=python&logoColor=6366f1)
+![Seaborn](https://img.shields.io/badge/Seaborn-0f172a?style=for-the-badge&logo=python&logoColor=6366f1)
+![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=ef4444)
 
 </div>
 
 ---
 
-## About Me
-
-I'm a data analyst with a strong foundation in Python, SQL, and business intelligence tools. I enjoy digging into messy datasets and turning them into clean, actionable insights — whether that's through a well-structured SQL query, a Python pipeline, or an interactive Power BI dashboard.
-
-Currently building projects and actively looking for opportunities where I can contribute to data-driven decision making.
-
----
-
-## Tech Stack
-
-**Languages & Querying**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Advanced_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
-
-**Libraries & Frameworks**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=flat-square&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=flat-square&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-
-**BI & Visualization**
-
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-
----
-
-## Featured Projects
+### Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [Python Projects](https://github.com/Mayank-Sharma-Git/Python_Projects) | Collection of Python scripts and mini-projects | Python |
-| [Python Solved Assignments](https://github.com/Mayank-Sharma-Git/Python-Solved-Assignments-Mukesh-Sir-) | Solved Python exercises and problem sets | Python |
-| [SQL Projects & Assignments](https://github.com/Mayank-Sharma-Git/SQL-Projects-and-Assignments) | SQL queries, schema design, and data analysis | SQL |
+| [Python Projects](https://github.com/Mayank-Sharma-Git/Python_Projects) | Scripts, automation & data analysis | Python |
+| [Python Assignments](https://github.com/Mayank-Sharma-Git/Python-Solved-Assignments-Mukesh-Sir-) | Structured problem-solving exercises | Python |
+| [SQL Projects](https://github.com/Mayank-Sharma-Git/SQL-Projects-and-Assignments) | Queries, schema design, analysis | SQL |
 
-> 🔧 More projects in progress — stay tuned.
+> EDA projects, dashboards and ML notebooks coming soon.
 
 ---
 
-## GitHub Stats
+### Stats
 
 <div align="center">
 
-![Mayank's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mayank-Sharma-Git&show_icons=true&theme=default&hide_border=true&title_color=6d4aff&icon_color=6d4aff)
+<img src="https://github-readme-stats.vercel.app/api?username=Mayank-Sharma-Git&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=e0e7ff&count_private=true" height="155"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Sharma-Git&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6366f1&text_color=e0e7ff" height="155"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mayank-Sharma-Git&layout=compact&theme=default&hide_border=true&title_color=6d4aff)
+<img src="https://streak-stats.demolab.com?user=Mayank-Sharma-Git&theme=tokyonight&hide_border=true&background=0d1117&ring=6366f1&fire=f59e0b&currStreakLabel=6366f1" height="155"/>
 
 </div>
 
 ---
 
-## Currently
+### Roadmap
 
-- 📊 Working on end-to-end data analysis projects
-- 📚 Deepening skills in data storytelling and dashboard design
-- 💼 Open to **Data Analyst / Business Analyst** roles
+```
+[✓] Python  →  [✓] Pandas / NumPy  →  [✓] SQL  →  [✓] Power BI
+                                                           ↓
+                               [→] Math for ML  →  [ ] Scikit-learn  →  [ ] ML Projects
+```
 
 ---
 
 <div align="center">
 
-*Open to full-time roles, internships, and freelance data projects.*
-<br>
-**Let's connect → MayankSharma.work@proton.me**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312e81,100:0f0f1a&height=90&section=footer" width="100%"/>
+
+**Open to Data Analyst, Business Analyst & Junior ML roles**
+`MayankSharma.work@proton.me`
 
 </div>
-
 
