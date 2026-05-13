@@ -14,18 +14,13 @@
 
 ---
 
-### `$ whoami`
+### About
 
-```python
-{
-  "role"         : "Data Analyst",
-  "core_stack"   : ["Python", "SQL", "Power BI", "Advanced Excel"],
-  "libraries"    : ["Pandas", "NumPy", "Matplotlib", "Seaborn", "Streamlit"],
-  "currently"    : "Studying Mathematics for Machine Learning",
-  "next_goal"    : "ML Engineering — Scikit-learn, Stats, Model Building",
-  "available_for": "Data Analyst · Business Analyst · Junior ML roles"
-}
-```
+Data Analyst with hands-on experience in Python, SQL, Power BI, and Advanced Excel. I work across the full analytics pipeline — from writing queries and cleaning data to building dashboards and telling the story behind the numbers.
+
+Currently studying the mathematics behind machine learning — linear algebra, statistics, calculus — with the goal of moving into ML engineering and building models, not just consuming them.
+
+Actively looking for roles where data actually drives decisions.
 
 ---
 
@@ -92,4 +87,3 @@
 `MayankSharma.work@proton.me`
 
 </div>
-
