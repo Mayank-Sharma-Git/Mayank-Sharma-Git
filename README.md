@@ -81,7 +81,7 @@ Actively looking for roles where data actually drives decisions.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,100:2563eb&height=90&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:34d399,100:0d9488&height=90&section=footer" width="100%"/>
 
 **Open to Data Analyst, Business Analyst & Junior ML roles**
 `MayankSharma.work@proton.me`
